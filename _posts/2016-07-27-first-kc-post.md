@@ -8,9 +8,9 @@ image:
   feature: abstract-7.jpg
 ---
 
-KC first sample post.
+KC first sample post. 첫번째 셈플 포스트
 
-## Cupidatat 90's lo-fi authentic try-hard
+## Cupidatat 90's lo-fi authentic try-hard 폰트 확인
 
 > In pug Portland incididunt mlkshk put a bird on it vinyl quinoa. Terry Richardson shabby chic +1, scenester Tonx excepteur tempor fugiat voluptate fingerstache aliquip nisi next level. Farm-to-table hashtag Truffaut, Odd Future ex meggings gentrify single-origin coffee try-hard 90.
 
