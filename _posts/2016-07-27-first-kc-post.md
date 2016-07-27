@@ -1,6 +1,6 @@
 ---
 layout: post
-title: "Post with Large Feature Image and Text"
+title: "First KC Sample Post"
 description: "Custom written post descriptions are the way to go... if you're not lazy."
 tags: [sample post, kc]
 modified: 2016-07-27
